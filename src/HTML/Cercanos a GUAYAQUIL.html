@@ -1,0 +1,49 @@
+<!DOCTYPE html><html><head>    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; height: 100%; }  
+</style></head>
+<body> 
+<div id = 'map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYWxlbm9jb3QiLCJhIjoiY2s2NDM5dXNpMGloeDNlbzV5eThyamt2MiJ9.XzGYfbdCsRvW8etUGKG6Ew';
+
+var map = new mapboxgl.Map({
+
+container: 'map',
+
+ style: 'mapbox://styles/mapbox/streets-v9',
+
+ center: [-79.88333,-2.18333],
+
+ zoom: 13
+
+ });
+
+var marker0 = new mapboxgl.Marker()
+.setLngLat([-79.88377,-2.189866])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Cityplaza'))
+.addTo(map);
+var marker1 = new mapboxgl.Marker()
+.setLngLat([-79.878498,-2.18863])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Ramada'))
+.addTo(map);
+var marker2 = new mapboxgl.Marker()
+.setLngLat([-79.882687,-2.191436])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Hampton Inn by Hilton Guayaquil'))
+.addTo(map);
+var marker3 = new mapboxgl.Marker()
+.setLngLat([-79.89138,-2.188395])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Galeria Man Ging'))
+.addTo(map);
+var marker4 = new mapboxgl.Marker()
+.setLngLat([-79.882434,-2.192827])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Palace'))
+.addTo(map);
+</script></body></html>

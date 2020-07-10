@@ -1,0 +1,49 @@
+<!DOCTYPE html><html><head>    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; height: 100%; }  
+</style></head>
+<body> 
+<div id = 'map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYWxlbm9jb3QiLCJhIjoiY2s2NDM5dXNpMGloeDNlbzV5eThyamt2MiJ9.XzGYfbdCsRvW8etUGKG6Ew';
+
+var map = new mapboxgl.Map({
+
+container: 'map',
+
+ style: 'mapbox://styles/mapbox/streets-v9',
+
+ center: [-78.512546,-0.2198315],
+
+ zoom: 13
+
+ });
+
+var marker0 = new mapboxgl.Marker()
+.setLngLat([-78.511854,-0.219398])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Plaza Grande'))
+.addTo(map);
+var marker1 = new mapboxgl.Marker()
+.setLngLat([-78.511228,-0.21862])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Patio Andaluz'))
+.addTo(map);
+var marker2 = new mapboxgl.Marker()
+.setLngLat([-78.510591,-0.218747])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Relicario del Carmen'))
+.addTo(map);
+var marker3 = new mapboxgl.Marker()
+.setLngLat([-78.512382,-0.222515])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel San Francisco'))
+.addTo(map);
+var marker4 = new mapboxgl.Marker()
+.setLngLat([-78.511938,-0.222805])
+.setPopup(new mapboxgl.Popup({ offset: 25 })
+.setHTML('Hotel Boutique Plaza Sucre'))
+.addTo(map);
+</script></body></html>

@@ -1,0 +1,562 @@
+id_habitacion|id_hotel|tipo_habitacion|tarifa_sencilla|tarifa_doble|tarifa_triple
+1|1|Superior Room|220.00|244.00|0
+2|1|Superior Suite|232.00|256.00|0
+3|1|Deluxe Room|244.00|268.00|0
+4|1|Deluxe Suite|256.00|281.00|0
+5|1|Alameda Suite|305.00|330.00|0
+6|2|Junior Suite|195.2|219.6|0
+7|3|Deluxe|281.38|281.38|0
+8|3|Club Floor |317.98|317.98|0
+9|3|Club Plus Floor |342.38|342.38|0
+10|3|Club Suite|391.18|391.18|0
+11|3|Executive Suite|415.58|415.58|0
+12|3|Premium Suite|464.38|464.38|0
+13|3|Suite Presidencial|1832.00|1832.00|0
+14|4|Estándar|186.22|199.64|0
+15|4|Junior Suite|206.96|220.38|0
+16|4|Suite|227.70|241.12|0
+17|4|Carlton Floor|222.82|236.24|0
+18|4|Carlton Floor Suite|259.42|272.84|0
+19|4|Smart Floor|267.96|281.38|0
+20|5|Lujo|206.18|206.18|0
+21|5|Ejecutiva|267.18|267.18|0
+22|5|Suite|328.18|328.18|0
+23|6|Ejecutiva|117.90|124.00|0
+24|7|Superior|185.78|187.78|0
+25|7|Ejecutiva|204.08|206.08|0
+26|7|Business Class|222.38|224.38|0
+27|7|Suite|240.68|242.68|0
+28|8|Clásica|210|220|0
+29|8|Biz Advantage|225|235|0
+30|8|Club Level|240|250|0
+31|8|Junior Suite|260|270|0
+32|9|Swiss Premier Room|209.00|209.00|0
+33|10|Estándar|245.00|306.00|0
+34|11|Estándar|123.00|141.30|159.60
+35|11|Suite|0|177.90|0
+36|12|Estándar|44.00|55.00|0
+37|13|Suite Sencilla|86.24|506.24|0
+38|13|Suite Doble|104.16|642.88|0
+39|14|Estándar|98.60|110.80|141.30
+40|14|Superior|110.80|123.00|159.60
+41|14|Estándar Cuádruple|0|171.80|0
+42|14|Superior Cuádruple|0|190.10|0
+43|15|Luxury Room|482.00|482.00|0
+44|15|Junior Suite|617.00|617.00|0
+45|15|Plaza View|617.00|617.00|0
+46|15|Balcony Junior Suite|617.00|617.00|0
+47|16|Estándar|74.20|98.60|135.20
+48|16|Suite|91.28|107.14|147.40
+49|16|Departamentos 2 hab. (4 pax)|0|184.00|0
+50|16|Departamentos 3 hab. (6 pax)|0|257.20|0
+51|17|Lujo|192.48|218.10|0
+52|17|Suite|0|266.90|0
+53|18|Estándar|141.30|153.50|0
+54|18|Junior Suite|177.90|177.90|0
+55|18|Persona Adicional|18.30|0|0
+56|19|Paquete Ejecutivo * Business Suite|433.10|0|0
+57|19|Paquete Ejecutivo * Junior Suite|384.30|0|0
+58|19|Business Suite|420.90|0|0
+59|19|Junior Suite|353.80|0|0
+60|20|Estándar |86.40|98.60|0
+61|21|Estándar|115.00|130.00|145.00
+62|22|Estándar|92.50|104.70|116.90
+63|22|Suite |116.90|129.10|0
+64|23|Estándar|83.96|92.50|110.80
+65|24|Suite Coco / Cuero|130.00|130.00|0
+66|24|Suite Totora / Vega|140.00|140.00|0
+67|24|Suite Bambú / Pop / Andes / Mimbre|150.00|150.00|0
+68|24|Suite Inca / Hacienda / Cerámica / Metal|170.00|170.00|0
+69|24|Suite Etnos / Amazonas / Colonial / Vitro|170.00|170.00|0
+70|25|Estándar |30.00|50.00|60.00
+71|26|Estándar|39.00|51.00|72.00
+72|26|Matrimonial|0|46.00|0
+73|26|Cuádruple|0|83.00|0
+74|27|Sencilla|31.36|20.16|0
+75|27|Doble (Cama matrimonial)|44.8|35.84|0
+76|27|Doble (Dos Camas)|47.04|38.04|0
+77|27|Triple|60.48|47.04|0
+78|27|Cuádruple|71.68|58.24|0
+79|27|Cama en dormitorio compartido|0|15|0
+80|28|Estándar|109.8|109.8|0
+81|28|Superior|109.8|0|0
+82|28|Executive|122|122|0
+83|28|Junior Suite|134.2|134.2|0
+84|29|Estandar|152.5|164.7|0
+85|29|Matrimonial|164.7|164.7|0
+86|29|Suite|237.9|237.9|0
+87|30|Estandar|152.5|170.8|0
+88|30|Estandar Matrimonial|158.6|158.6|0
+89|30|Junior Suite|195.2|195.2|0
+90|31|Deluxe|219.6|219.6|0
+91|31|Ejecutiva|292.8|292.8|0
+92|31|Junior Suite|341.6|341.6|0
+93|31|Suite Ejecutiva|390.4|390.4|0
+94|31|Suite Presidencial|1220|1220|0
+95|32|Deluxe |169.58|169.58|0
+96|32|Leading Suite|206.18|206.18|0
+97|32|Club Floor Deluxe Room|219.6|219.6|0
+98|32|Club Floor Deluxe Suite|256.2|256.2|0
+99|32|Day Use|115.9|115.9|0
+100|33|Superior|146.4|146.4|0
+101|33|Ejecutiva|114.68|126.88|0
+102|33|Estándar|81.74|91.5|0
+103|34|Superior|280.6|280.6|0
+104|34|Junior Suite|329.4|329.4|0
+105|34|Piso Ejecutivo|329.4|329.4|0
+106|34|Suite Especial|573.4|573.4|0
+107|35|Estándar|158.6|164.7|0
+108|35|Estándar Suite|219.6|219.6|0
+109|35|Business Room|170.8|183|0
+110|35|Signature Floor Room|183|195.2|0
+111|35|Signature Floor Suite|244|244|0
+112|36|Estándar|140|165|0
+113|36|Matrimonial|165|165|0
+114|36|Junior Suite|185|185|0
+115|36|Persona Adicional|95|95|0
+116|37|Estándar|79.3|91.5|0
+117|37|Apartamento (hasta 3 pax)|109.8|109.8|0
+118|38|Estándar|47.58|59.78|78.08
+119|38|Matrimonial|59.78|59.78|0
+120|38|Cuádruple|96.38|96.38|0
+121|38|Suite Junior|71.98|71.98|0
+122|38|Suite (vapor-hidromasaje)|96.38|96.38|0
+123|39|Estándar|79.7|105.9|125.9
+124|39|Matrimonial|0|100.4|0
+125|39|Cama Adicional|0|20|0
+126|40|Estándar|103.7|115.9|0
+127|40|Junior Suite|134.2|134.2|0
+128|40|Senior Suite|146.4|146.4|0
+129|40|Precidencial Suite|164.7|164.7|0
+130|41|Estándar |40|46|62
+131|41|Matrimonial|46|46|46
+132|41|Cuádruple|84|84|84
+133|41|Junior Suite|73.2|73.2|73.2
+134|42|Especial|126.88|132.98|0
+135|42|Superior|126.88|132.98|0
+136|42|Junior Suite|169.58|169.58|0
+137|42|Junior Suite Deluxe|187.88|187.88|0
+138|43|Estándar|61|73.2|79.3
+139|43|Suite|85.4|85.4|85.4
+140|44|Estándar (Lunes a Jueves)|195.2|207.4|0
+141|44|Estándar (Viernes a Domingo)|122|134.2|0
+142|45|Estándar|92.71|111.02|120.78
+143|45|Cuádruple|135.42|135.42|135.42
+144|45|Quíntuple|152.49|152.49|152.49
+145|46|Estándar |97.6|109.8|122
+146|46|Ejecutiva|109.8|122|134.2
+147|46|Junior Suite|134.2|134.2|146.4
+148|46|Suite Ejecutiva|134.2|134.2|146.4
+149|46|Suite Presidencial|164.7|164.7|176.9
+150|47|Estándar (Lunes a Sábado)|109|119|0
+151|47|Estándar (Domingo)|85.4|85.4|0
+152|48|Estándar |100|105.01|0
+153|48| Junior Suite|183|183|0
+154|48| Suite|244|244|0
+155|48| Pax extra|30.5|30.5|0
+156|49|Estándar|90|99|116
+157|49|Persona Adicional|15|15|15
+158|50|Estándar|89.06|101.26|115.9
+159|51|Estándar|54.78|70.64|88.94
+160|51|Cuádruple|106.02|106.02|106.02
+161|51|Suite Junior|86.5|86.5|86.5
+162|51|Suite Presidencial|106.02|106.02|106.02
+163|52| Estándar|39.04|54.9|70.76
+164|52| Cuádruple|85.4|85.4|85.4
+165|53|Estándar|115.9|146.4|183
+166|53| Junior Suite|219.6|0|0
+167|53| Suite|231.8|0|0
+168|53| Suite Familiar|262.3|0|0
+169|54|Estándar|50|64.8|79.8
+170|54|Superior|69.6|84.2|98.3
+171|55|Estándar|134.2|223.26|241.02
+172|55|Suite de Lujo|341.6|341.6|341.6
+173|56|Estándar|51.2|76.86|92.72
+174|56|Cuádruple|109.8|109.81|109.82
+175|57|Estándar |40|56|75
+176|57|Cuádruple|85|85|85
+177|58|Superior|84.18|125.66|146.4
+178|58|Cuádruple|179.34|179.34|179.34
+179|58|Junior Suite|161.04|161.04|0
+180|58|Máster Suite|168.36|168.36|0
+181|59|Estándar|103.7|128.1|152.5
+182|59| Superior|128.1|164.7|201.3
+183|59| Premium|170.8|207.4|0
+184|59| Suite|231.8|280.6|0
+185|60|Estándar|46|63|85
+186|61|Estándar |21.84|36.75|54.5
+187|61| Cuádruple|69|69|69
+188|61| Suite Junior|60|60|60
+189|62|Estándar |42.09|61.54|72.83
+190|62| Matrimonial|58.04|58.04|58.04
+191|62| Familiar (4 pax)|82.64|82.64|82.64
+192|63|Estándar Sencilla|61|121|0
+193|63|Estándar Doble|80|121|0
+194|63|Junior Suite (1 pax)|74|121|0
+195|63|Junior Suite (2 pax)|94|121|0
+196|63|Suite Ejecutiva (1 pax)|89|153|0
+197|63|Suite Ejecutiva (2 pax)|131|153|0
+198|63|Master Suite (1 pax)|125|204|0
+199|63|Master Suite (2 pax)|180|204|0
+200|63|Familiar (5 - 7 pax)|41|52|0
+201|64|Estándar Sencilla|61|122|0
+202|64|Doble|91.5|134.2|0
+203|64|Matrimonial|91.5|134.2|0
+204|64|Triple|123.53|195.2|0
+205|64|Quíntuple|190.63|256.2|0
+206|64|Suite Matrimonial|152.5|226.92|0
+207|64|Suite Doble|152.5|226.92|0
+208|65|Estándar Sencilla|22.4|39.2|0
+209|65|Estándar Doble |33.6|47.04|0
+210|65|Estándar Triple|40.32|67.2|0
+211|65|Cuádruple|53.76|80.64|0
+212|65|Quíntuple|67.2|95.2|0
+213|65|Séxtuple|80.64|123.2|0
+214|66|Estándar Sencilla|40|86|0
+215|66|Matrimonial|76|86|0
+216|66|Triple|114|125|0
+217|66|Cuádruple (4pax)|140|145|0
+218|66|Suite (4pax)|152|159|0
+219|66|Suite (5pax)|175|179|0
+220|66|Suite (6pax)|192|210|0
+221|66|Suite (7pax)|224|224|0
+222|66|Niño Adicional (4-11 años)|19|0|0
+223|67|Familiar (Temporada Baja)|67.2|100.8|117.6
+224|67|Familiar (Temporada Alta)|89.6|134.4|179.2
+225|68|Estándar|206.18|242.78|0
+226|68|Matrimonial |242.78|242.78|0
+227|69|Estándar|110.08|122.56|0
+228|70|Cabaña Sencilla ó Matrimonial|95.16|107.36|0
+229|70|Cabaña Doble|146.4|170.8|0
+230|70|Cabaña Familiar|217.16|268.4|0
+231|70|Vista al Mar Sencilla|128.1|148.84|0
+232|70|Vista al Mar Doble|189.1|214.92|0
+233|70|Vista al jardín Sencilla|109.8|129.32|0
+234|70|Vista al jardín Doble|147.62|192.76|0
+235|71|Económica|0|44.8|0
+236|71|Estándar|36.96|67.2|0
+237|71|Superior|56|78.4|0
+238|71|Familiar (4 pax)|134.4|134.4|0
+239|72|Estándar|59|95.16|142.74
+240|72|Cuádruple|190.32|190.32|190.32
+241|73|Estándar|36.6|54.9|69.08
+242|73|Cuádruple|78.32|78.32|78.32
+243|73|Quíntuple|92.72|92.72|92.72
+244|74|Estandar|55|96|0
+245|75|Lunes a Jueves|69.54|97.6|122.23
+246|75|Viernes a Domingo|60|70|105
+247|76|Estándar|77.17|113.85|0
+248|76|Matrimonial|110.4|110.4|0
+249|76|Tipológica |135.7|135.7|0
+250|76|Ejecutiva|156.4|156.4|0
+251|76|Familiar (2 adultos. 2 niños menores de 12 años)|225.4|225.4|0
+252|76|Suite Senior (2 pax)|263.35|263.35|0
+253|76|Suite Presidencial (2 pax)|375.16|375.16|0
+254|77|Estándar|35|60|0
+255|78|Estándar|103.7|135|0
+256|78|Suite Ejecutiva|210|210|0
+257|78|Suite Presidencial|320|320|0
+258|78|Cama Adicional|36.6|36.6|0
+259|79|Estándar|60|92|0
+260|79|Matrimonial|92|92|0
+261|80|Temporada Alta|0|54.99|75
+262|80|Temporada Baja|25|44|63
+263|81|Estándar|45|90|120
+264|81|Cuádruple|160|160|160
+265|82|Estándar|15|28|0
+266|83|Estandar|49.11|91.37|127.2
+267|83|Ejecutiva|78.93|128.31|161.12
+268|84|Estándar|30|45|70
+269|84|Mini Suite|75|100|0
+270|84|Suite Grande|135|150|0
+271|84|Estándar Cuádruple|80|80|80
+272|84|Estándar Quíntuple|90|90|90
+273|85|Cabañas |20|40|0
+274|86|Temporada Alta|17.5|28|42
+275|86|Temporada Baja|15|24|36
+276|87|Comfort|186.66|186.66|186.66
+277|87|Deluxe|213.5|213.5|213.5
+278|87|Familiar (4 pax)|339.16|339.16|339.16
+279|87|Junior Suite|253.76|253.76|253.76
+280|88|Habitación Sierra (*)|80|80|130
+281|88|Suite Cholan & Pakari (*)|100|120|0
+282|88|Dueño's Suite (**)|300|300.01|0
+283|88|Dueña's & Dueñita's Suite (**)|105|210|315
+284|89|Estándar|73.2|79.3|91.5
+285|89|Casa Cotacachi |146.4|146.4|146.4
+286|89|Suite Familiar|158.6|158.6|158.6
+287|90|Chalet Estándar|79.3|91.5|0
+288|90|Chalet Superior|91.5|115.9|128.1
+289|90|Chalet Superior Cuádruple|146.4|146.4|146.4
+290|90|Junior Suite|140.3|140.3|140.3
+291|90|Junior Suite (Jacuzzi)|158.6|158.6|158.6
+292|91|Estándar|129.60|155.50|0
+293|91|Suite|184.50|210.40|0
+294|91|Suite presidencial|245.50|271.40|0
+295|92|Estándar|115.90|140.30|0
+296|93|Estándar|40.26|58.56|74.00
+297|93|Suite Junior|55.00|70.00|0
+298|93|Suite Presidencial|83.00|100.00|0
+299|94|Estándar|60.00|70.00|88.00
+300|94|Cuádruple|0|108.00|0
+301|94|Suite|0|80.00|0
+302|94|Suite Matrimonial|0|88.00|0
+303|94|Persona Adicioanal|0|25.00|0
+304|95|Estándar|65.76|92.60|98.70
+305|95|Suite Junior|117.00|0|0
+306|95|Suite Presidencial|145.06|0|0
+307|95|Cuádruple|0|125.54|0
+308|96|Estándar|0|87.44|0
+309|96|Twin / Matrimonial|0|106.14|0
+310|96|Junior Suite|0|118.34|0
+311|97| Estándar|33.60|50.40|60.48
+312|97| Suite|45.00|0|0
+313|97| Suite Matrimonial|60.00|0|0
+314|98|Estándar|18.00|33.00|45.00
+315|98|Cuádruple|58.00|0|0
+316|98|Quíntuple|70.00|0|0
+317|98|Familiar (6 pax)|85.00|0|0
+318|98|Familiar (7 pax)|100.00|0|0
+319|98|Suite Junior|120.00|0|0
+320|99|Estándar|22.00|32.00|42.00
+321|99|Superior|32.00|42.00|52.00
+322|100|Estándar|40.00|60.00|0
+323|100|Matrimonial|50.00|0|0
+324|101|Estándar|61.00|91.48|108.10
+325|101|Matrimonial|0|91.48|0
+326|102|Estándar|40.00|60.00|0
+327|102|Matrimonial|50.00|0|0
+328|103|Estándar|86.50|120.00|156.00
+329|103|Suite|0|210.00|0
+330|104|Estándar|366.00|0|0
+331|104|Suite|427.00|0|0
+332|105|Estándar|75|95|130.00 
+333|105|Familiar (4 pax)|0|160|0
+334|106|Económica|26.00|44.00|60.00
+335|106|Estándar|45.00|74.00|93.00
+336|106|Cuádruple Económica|0|76.00|0
+337|106|Cuádruple Estándar|0|112.00|0
+338|106|Matrimonial Superior|97.00|0|0
+339|106|Familiar Superior|85.00|112.00|138.00
+340|107|Estándar|56.12|96.38|103.70
+341|107|Matrimonial|0|85.40|0
+342|107|Cuádruple|0|109.80|0
+343|107|Villa para 4 personas|0|152.50|0
+344|107|Villa para 5 personas|0|164.70|0
+345|107|Villa para 6 personas|0|195.20|0
+346|108|Estándar|67.00|85.00|117.00
+347|108|Cuádruple|0|137.00|0
+348|108|Quíntuple|0|153.00|0
+349|108|Suite Lujo frente al mar|0|154.00|0
+350|109|Cabaña|40.00|61.00|0
+351|109|Estándar Convencional|46.00|71.50|0
+352|109|Mini Suite|58.00|79.75|0
+353|109|Mini Suite Jacuzzi|81.97|100.00|0
+354|110|3 noches / 4 días (vie a lun) *|932.40|621.60|621.60
+355|110|4 noches / 5 días (lun a vie) *|1238.16|825.44|825.44
+356|110|7 noches / 8 días *|2167.20|1444.80|1444.80
+357|110|Glamping (Excursión Opcional)|240.8|0|0
+358|111|Estándar |35.00|60.00|80.00
+359|111|Mini Suite (Individual)|0|40.00|0
+360|112|Estándar |28.00|51.00|70.00
+361|112|Matrimonial|0|45.00|0
+362|113|Estándar |25.00|40.00|55.00
+363|113|Matrimonial|0|30.00|0
+364|113|Cuádruple|0|75.00|0
+365|114|Estándar |25.00|40.00|54.00
+366|114|Matrimonial|25.00|35.00|0
+367|115|Estándar|77.50|111.60|131.80
+368|115|Junior Suite ó Matrimonial|0|118.00|0
+369|115|Suite Matrimonial |0|147.00|0
+370|115|Suite Presidencial|0|183.75|0
+371|116|Estándar|47.58|54.9|71.95
+372|116|Suite|0|86.62|0
+373|117|Deluxe|132.98|145.18|181.78
+374|117|Ejecutiva|181.78|206.18|0
+375|117|Suite Deluxe|0|488.00|0
+376|117|Suite Ejecutiva|0|549.00|0
+377|118|Cabañas Hakuna Matata|0|66.00|132.00
+378|118|Hakuna Matata Lodge|0|72.00|144.00
+379|118|Hakuna Supreme|0|78.00|156.00
+380|119|Estándar|0|18.00|30.00
+381|119|Superior|0|20.00|40.00
+382|119|Familiar p/persona|0|12.00|0
+383|119|Cabaña (4-8 pax) p/persona|0|15.00|0
+384|119|Cabaña Superior (4-8 pax) p/persona|0.00|20.00|0
+385|120|Estándar|126|136|151.00 
+386|120|Suite Campestre (65m²) |0|166|0
+387|120|Casa de Campo (100m²)|0|231|0
+388|121|Estándar |95|95|105.00 
+389|121|Suite|0|115|0
+390|121|Veranda (casitas #2 y #3)|0|130|0
+391|121|Veranda (casita #1)|0|145|0
+392|122|Estándar|68.00|96.00|120.00
+393|122|Suite|90.00|138.00|170.00
+394|122|Suite Cuádruple|0|200.00|0
+395|122|Cama Extra|0|28.00|0
+396|123|Programa 3 Días / 2 Noches|80.00|160.00|0
+397|123|Programa 4 Días / 3 Noches|120.00|240.00|0
+398|123|Programa 5 Días / 4 Noches|160.00|320.00|0
+399|124|Estándar|20.16|33.60|50.40
+400|125|Matrimonial|0|33.60|0
+401|125|Cuádruple|0|67.20|0
+402|126|Completa (*)|50.00|100.00|125.00
+403|126|Estándar|0|60.00|0
+404|126|Estándar Familiar (6 pax)|0|85.00|0
+405|126|Estándar Familiar (7 pax)|0|100.00|0
+406|126|Completa (7 pax) (*)|0|150.00|0
+407|127|Cabaña Platanillo|40.00|75.00|105.00
+408|127|Cabaña Cruz Caspi|50.00|80.00|0
+409|127|Cabaña Chonta|50.00|80.00|110.00
+410|127|Cabaña Papagayo (6 pax)|0|200.00|0
+411|128|Estándar|15.00|30.00|45.00
+412|129|Clasica|70.00|82.00|94.00
+413|130|Estándar|29.91|38.13|47.93
+414|131|Estándar|48.92|62.90|63.53
+415|132|Estándar|15.00|26.00|38.00
+416|133|Estándar|28.00|38.00|48.00
+417|134|Estándar|25.00|40.00|70.00
+418|135|Estándar|40.00|74.00|115.00
+419|136|Estándar|33.00|55.00|75.00
+420|137|Estándar|16.80|22.40|33.60
+421|138|Estándar|16.80|22.40|33.60
+422|139|Estándar|15.00|30.00|45.00
+423|140|Estándar|25.00|40.00|50.00
+424|141|Estándar|25.00|35.00|55.00
+425|142|Estándar|15.00|30.00|45.00
+426|143|Jr. Suite|50.00|0|0
+427|143|Suite Ocean|80.00|0|0
+428|143|Suite Familiar|100.00|0|0
+429|144|Estándar|10.00|20.00|30.00
+430|145|Estándar|61.00|73.20|85.40
+431|146|Estándar|277.00|290.00|0
+432|146|Suite|435.00|0|0
+433|147|Estudio Veranda|458.00|0|0
+434|147|Suite Real|732.00|0|0
+435|147|Villas|763.00|0|0
+436|148|Estándar|192.00|0|0
+437|148|Superior|324.00|0|0
+438|148|Suite|399.00|0|0
+439|149|Estándar|60.00|70.00|105.00
+440|150|Estándar|141.00|227.00|0
+441|151|Estándar|85.00|90.00|124.00
+442|152|Estándar|85.00|90.00|124.00
+443|153|Estándar|70.00|90.00|110.00
+444|154|Estándar|34.00|45.00|0
+445|154|Suite|70.00|0|0
+446|155|Estándar|40.00|60.00|80.00
+447|156|Estándar|30.00|50.00|55.00
+448|157|Estándar|40.00|60.00|80.00
+449|158|Estándar|150.00|180.00|0
+450|158|Suite|250.00|0|0
+451|159|Estándar|70.00|110.00|0
+452|159|Suite|160.00|0|0
+453|160|Estándar|65.00|75.00|0
+454|160|Suite|405.00|0|0
+455|161|Estándar|80.00|120.00|0
+456|162|Estándar|102.00|178.50|0
+457|162|Suite|238.00|0|0
+458|162|Presidencial|272.00|0|0
+459|163|Estándar|98.00|155.00|199.00
+460|164|Estándar|45.00|85.00|120.00
+461|165|Estándar|49.00|95.00|120.00
+462|166|Estándar|56.00|98.00|120.00
+463|167|Estándar|35.00|50.00|100.00
+464|168|Estándar|67.10|85.00|120.78
+465|169|Estándar|80.00|97.00|159.00
+466|170|Estándar|79.00|93.00|0
+467|170|Suite|129.00|0|0
+468|171|Estándar|58.00|75.00|120.00
+469|172|Estándar|57.00|75.00|90.00
+470|172|Suite|150.00|0|0
+471|173|Estándar|48.30|109.80|97.60
+472|173|Suite|97.60|0|0
+473|174|Estándar|98.00|154.00|228.00
+474|174|Suite|398.00|0|0
+475|175|Estándar|55.00|78.00|96.00
+476|176|Estándar|48.30|55.00|76.00
+477|176|Suite|180.00|0|0
+478|176|Matrimonial|250.00|0|0
+479|177|Suite Familiar|0|0|1155.00
+480|177|Suite Superior|0|0|1440.00
+481|177|Suite Scenic|0|0|1510.00
+482|178|Estándar|25.00|31.00|55.00
+483|179|Estándar|119.00|129.00|150.00
+484|180|Cabaña|61.00|100.00|125.00
+485|181|Económica|26.00|44.00|60.00
+486|181|Familiar Estándar|45.00|74.00|93.00
+487|181|Familiar Superior|91.00|112.00|138.00
+488|181|Matrimonial|65.00|97.00|0
+489|182|Cabaña Napo Wildlife|0|1228.00|0
+490|182|Cabaña La Selva|0|1008.00|0
+491|182|Cabaña Matate|0|910.00|0
+492|183|Cabaña Estandar|929.00|1159.00|1699.00
+493|183|Cabaña Suit|1079.00|1319.00|1929.00
+494|183|Cabaña Master|1119.00|1359.00|2019.00
+495|184|Estándar|101.47|110.30|140.35
+496|185|Eco Cabaña|70.00|90.00|0
+497|185|Cabaña Deluxe|85.00|115.00|0
+498|185|Tropical Junior Suite|115.00|145.00|0
+499|185|Cabaña Familiar|0|195.00|225.00
+500|186|Estándar|160.00|248.00|340.00
+501|187|Estándar|95.00|120.00|155.00
+502|187|Cabaña Familiar|0|0|420.00
+503|188|Estándar|200.50|278.75|314.56
+504|188|Cabaña Familiar|1030.40|1242.30|1545.60
+505|189|Cabaña Doble|170.00|242.00|312.00
+506|189|Cabaña Matrimonial|242.00|312.00|392.00
+507|190|Cabaña Simple|324.00|0|0
+508|190|Cabaña Doble|445.76|0|0
+509|191|Estándar|30.00|50.00|0
+510|191|Familiar (2 adultos. 2 niños menores de 12 años)|0|0|100.00
+511|192|Estándar|35.00|70.00|135.00
+512|192|Suite|0|95.00|0
+513|193|Estándar|39.00|49.00|58.50
+514|194|Estándar|0|83.17|119.89
+515|194|Bungalow|0|60.07|147.86
+516|195|Estándar|150.00|267.75|313.45
+517|195|Superior|0|318.75|0
+518|196|Estándar|28.00|50.00|78.00
+519|197|Estándar|60.00|90.00|107.15
+520|197|Familiar|0|113.00|143.00
+521|198|Twin|125.00|163.00|180.00
+522|198|Matrimonial|0|163.00|0
+523|199|Estándar|35.00|60.00|0
+524|199|Familiar|0|0|150.00
+525|200|Estándar|28.00|50.00|0
+526|201|Estándar|100.00|140.00|190.00
+527|201|Suite|200.00|200.00|0
+528|201|Matrimonial|0|220.00|0
+529|202|Estándar|35.00|65.00|87.00
+530|202|Familiar|0|145.00|0
+531|203|Estándar|65.00|95.00|125.00
+532|203|Matrimonial|0|85.00|0
+533|203|Familiar|0|0|175.00
+534|204|Estándar|20.00|28.00|36.00
+535|205|Deluxe Suite|90.00|110.00|0
+536|205|Doble Deluxe|60.00|70.00|0
+537|205|Loft Double|0|120.00|0
+538|206|Doble Deluxe|69.00|79.00|0
+539|206|Doble Superior|79.00|89.00|0
+540|206|Suite Terraza|89.00|109.00|0
+541|207|Estándar|0|0|0
+542|208|Estándar|65.00|95.00|100.00
+543|208|Matrimonial|0|85.00|0
+544|209|Estandar|32.00|40.00|59.00
+545|210|Estandar|35.00|42.00|68.00
+546|210|Superior|42.00|56.00|69.00
+547|210|Suite|66.00|82.00|99.00
+548|210|Penthouse|0|0|173.00
+549|211|Estandar|29.00|45.00|65.00
+550|211|Habitación Matrimonial|45.00|0|0
+551|212|Estandar|55.00|65.00|80.00
+552|213|Estandar|73.00|96.00|114.00
+553|214|Estandar|92.00|117.00|140.00
+554|215|Estandar|123.00|150.00|183.00
+555|216|Estandar|150.00|160.00|0
+556|216|Suite|220.00|0|0
+557|217|Estandar|32.00|57.00|72.00
+558|218|Estandar|27.00|43.00|58.00
+559|219|Royal Suite|550.00|0|0
+560|219|Suite Plaza|650.00|0|0
+561|219|Suite Presidencial|2000.00|0|0
